@@ -16,5 +16,8 @@ Git Commands Documentation.pdf
 2. The following files helps to understand the Git key terms:
 Git-KeyTerms.pdf
 
+### List of software, firmware and hardware you may require.
+Installing GIT tool : https://git-scm.com/downloads.
+
 ### Credits
 https://git-scm.com/doc
