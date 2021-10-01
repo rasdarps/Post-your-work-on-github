@@ -17,7 +17,7 @@ Git Commands Documentation.pdf
 Git-KeyTerms.pdf
 
 ### List of software, firmware and hardware you may require.
-Installing GIT tool : https://git-scm.com/downloads.
+Installing GIT tool : https://git-scm.com/downloads
 
 ### Credits
 https://git-scm.com/doc
